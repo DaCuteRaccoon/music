@@ -1,0 +1,7 @@
+#+title: Music Player
+#+author: DaCuteRaccoon
+#+language: en
+
+*** A music player written in HTML, JS, and CSS
+
+# https://orgmode.org/worg/org-symbols.html
